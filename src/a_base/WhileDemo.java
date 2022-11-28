@@ -1,4 +1,4 @@
-package src.base;
+package src.a_base;
 
 public class WhileDemo {
     public static void main(String[] args) {

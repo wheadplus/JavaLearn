@@ -1,4 +1,4 @@
-package src.base;
+package src.a_base;
 
 public class MethodDemo {
     public static void main(String[] args) {

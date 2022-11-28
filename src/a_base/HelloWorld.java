@@ -1,4 +1,4 @@
-package src.base;
+package src.a_base;
 
 public class HelloWorld {
 

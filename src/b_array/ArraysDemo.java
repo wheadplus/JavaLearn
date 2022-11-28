@@ -1,4 +1,4 @@
-package src.array;
+package src.b_array;
 
 import java.util.Arrays;
 

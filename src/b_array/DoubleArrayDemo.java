@@ -1,4 +1,4 @@
-package src.array;
+package src.b_array;
 
 public class DoubleArrayDemo {
     public static void main(String[] args) {
